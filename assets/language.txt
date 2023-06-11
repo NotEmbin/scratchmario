@@ -1,0 +1,2 @@
+{"english":{"player.mario":"Mario","player.luigi":"Luigi","player.yellow_toad":"Yellow Toad","player.blue_toad":"Blue Toad","tile.air":"Air","player.toadette":"Toadette"}
+{"spanish":{"player.blue_toad":"Sapo Azul","tile.air":"Air"}
