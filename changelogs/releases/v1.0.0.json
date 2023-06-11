@@ -1,1 +1,15 @@
-{"sort":"1.0","changes":{"additions":["nothing","test line 2"],"changes":[],"fixes":[],"removals":["nothing"]}}
+{
+  "sort":"1.0",
+  "changes":{
+    "additions":[
+      "nothing",
+     "test line 2"
+    ],"changes":[
+      null
+    ],"fixes":[
+      null
+    ],"removals":[
+      "nothing"
+    ]
+  }
+}
