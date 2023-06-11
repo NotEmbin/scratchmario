@@ -1,19 +1,14 @@
 {
   "sort":"1.0",
   "changes":{
-    "additions":
-    [
+    "additions":[
       "nothing",
      "test line 2"
-    ],
-    "changes":
-    [
-    ],
-    "fixes":
-    [
-    ],
-    "removals":
-    [
+    ],"changes":[
+      null
+    ],"fixes":[
+      null
+    ],"removals":[
       "nothing"
     ]
   }
