@@ -1,0 +1,16 @@
+{
+	"button.start":"Start",
+	"button.settings":"Settings",
+	"button.change_log":"Change Logs",
+	"button.more":"More...",
+	"button.latest_version":"Check Latest Version",
+	"button.volume":"Volume",
+	"button.music_volume":"Music Volume",
+	"button.special_effects":"Special Effects",
+	"character.embin.mario":"Mario",
+	"tile.embin.air":"Air",
+	"tile.embin.placeholder_solid":"Placeholder Tile",
+	"tile.embin.placeholder_not_solid":"Placeholder Tile (Not Solid)",
+	"tile.embin.tile":"Tile",
+	"tile.embin.ground":"Ground"
+}
