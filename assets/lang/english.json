@@ -7,7 +7,7 @@
 	"button.volume":"Volume",
 	"button.music_volume":"Music Volume",
 	"button.special_effects":"Special Effects",
-	"character.embin.mario":"Mario",
+	"character.mario":"Mario",
 	"tile.embin.air":"Air",
 	"tile.embin.placeholder_solid":"Placeholder Tile",
 	"tile.embin.placeholder_not_solid":"Placeholder Tile (Not Solid)",
