@@ -9,6 +9,7 @@
 	],
 	"language_files":
 	{
-		"English":"english.json"
+		"English":"english.json",
+		"Spanish":"spanish.json"
 	}
 }
