@@ -1,0 +1,6 @@
+{
+	"id":"air",
+	"collision_type":"passthrough",
+	"use_custom_texture":false,
+	"custom_texture":"embin/assets/tiles/air.png"
+}

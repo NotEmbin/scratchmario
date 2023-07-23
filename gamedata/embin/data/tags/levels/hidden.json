@@ -1,0 +1,8 @@
+{
+	"replace":false,
+	"data":[
+		"embin:environment_test",
+		"embin:entity_test",
+		"embin:physics_test"
+	]
+}

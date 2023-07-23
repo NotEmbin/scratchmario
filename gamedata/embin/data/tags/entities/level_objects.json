@@ -1,0 +1,12 @@
+{
+	"replace":false,
+	"data":[
+		"embin:player_spawn_area",
+		"embin:level_goal",
+		"embin:event",
+		"embin:kill_player_object",
+		"embin:lava",
+		"embin:checkpoint",
+		"embin:event_trigger"
+	]
+}
