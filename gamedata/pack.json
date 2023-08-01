@@ -1,0 +1,15 @@
+{
+	"version":1,
+	"id":"embin_mariogame_default_resources",
+	"name":"Default Resources",
+	"author":"Embin",
+	"description":"Default resources for $gn",
+	"special_data":[
+		"non_removable",
+		"never_out_of_date",
+		"vanilla",
+		"hide_author",
+		"translated_description",
+		"translated_name"
+	]
+}
